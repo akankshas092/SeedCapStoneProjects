@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-14T17:33:35 IST" name="Default suite" finished-at="2024-01-14T17:33:43 IST" duration-ms="8456">
+    <groups>
+    </groups>
+    <test started-at="2024-01-14T17:33:35 IST" name="Default test" finished-at="2024-01-14T17:33:43 IST" duration-ms="8456">
+      <class name="AUTO_TESTng.automobile_TESTng">
+        <test-method signature="f(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:AUTO_TESTng.automobile_TESTng@402bba4f]" started-at="2024-01-14T17:33:35 IST" name="f" data-provider="testdata" finished-at="2024-01-14T17:33:43 IST" duration-ms="8388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[01/01/2024]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[510]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[suhana]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[khan]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[01/09/2000]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[shewalewadi]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[410503]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[https://sampleapp.tricentis.com/101/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- AUTO_TESTng.automobile_TESTng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
